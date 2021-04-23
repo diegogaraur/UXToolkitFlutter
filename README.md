@@ -44,7 +44,7 @@ En este apartado compararemos distintas aplicaciones o páginas webs relacionada
 - [Web DIU](https://mgea.github.io/DIU)
 
 
-Para ver el análisis competitivo pulsa [aquí](https://www.github.com/diegogaraur/UXToolkitFlutter/P1).
+Para ver el análisis competitivo pulsa [aquí](https://github.com/diegogaraur/UXToolkitFlutter/tree/main/P1).
 
 A partir de este análisis competitivo, vamos a tener las ideas más claras para desarrollar nuesta aplicación.
 
