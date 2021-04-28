@@ -32,7 +32,7 @@ UXTools es una página web donde se pueden encontrar artículos que te aconsejan
 </table>
 
 
-Dentro de la página podemos encontrar un apartado llamado Challenges (Desafíos) en los que en cada uno de los desafíos se plantea de imaginariamente un problema que debes solucionar con la herramienta UX elegida. Por ejemplo, estamos en el desafío de User Persona, habrá que realizar una o varias personas según el problema planteado. Además, en cada desafío habrá una serie de tutoriales y herramientas para ayudarte a desarrollar la tarea que piden. 
+Dentro de la página podemos encontrar un apartado llamado Challenges (Desafíos), donde nos mostrará un listado de herramientas UX para poner en práctica con desafíos ficticios. Por ejemplo, si estamos en el desafío de User Persona, habrá que realizar una o varias personas según el problema planteado. Además, en cada desafío habrá una serie de tutoriales y herramientas para ayudarte a desarrollar la tarea que piden.
 
 Por último, te piden que compartas el resultado del trabajo realizado en Twitter con el hashtag #uxtoolschallenges y mencionando a la cuenta @uxtoolsco para que te den un feedback.
 
