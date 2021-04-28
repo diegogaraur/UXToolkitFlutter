@@ -21,9 +21,9 @@ Logotipo:
 **:bust_in_silhouette: Alumno:**
  * Diego García :octocat: [@diegogaraur](https://github.com/diegogaraur)
 
-**:busts_in_silhouette:​ Tutores:**
+**:busts_in_silhouette: Tutores:**
  * Miguel Gea :octocat: [@mgea](https://github.com/mgea)
- * Rosana Monte :octocat: [@rosanamontes](https://github.com/rosanamontes)
+ * Rosana Montes :octocat: [@rosanamontes](https://github.com/rosanamontes)
 
 **:book: Recursos:**
 - Iconos de [Flat Icons](https://www.flaticon.com/authors/flat-icons) en www.flaticon.com
